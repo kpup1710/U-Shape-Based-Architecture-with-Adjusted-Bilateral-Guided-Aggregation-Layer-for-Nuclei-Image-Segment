@@ -10,3 +10,5 @@ $$\mathcal{K}= 1 - Kulc = 1 - \dfrac{1}{2}\left(\dfrac{TP}{TP + FN} + \dfrac{TP}
 ## Results
 ![table1](https://github.com/tswizzle141/U-Shape-Based-Architecture-with-Adjusted-Bilateral-Guided-Aggregation-Layer-for-Nuclei-Image-Segment/blob/main/3.jpg)
 ![table2](https://github.com/tswizzle141/U-Shape-Based-Architecture-with-Adjusted-Bilateral-Guided-Aggregation-Layer-for-Nuclei-Image-Segment/blob/main/4.jpg)
+
+## You can read our paper [here](https://doi.org/10.1109/ICCE55644.2022.9852083)
